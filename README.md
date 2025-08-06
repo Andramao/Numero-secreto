@@ -13,7 +13,7 @@
 * [Licencia](#licencia)
 * [Conclusión](#conclusión)
 
-<h1>Sistema de Registro</h1>
+<h1 align="center">Sistema de Registro</h1>
 <p align="center">
  <img width="250" height="250" alt="bg" src="https://github.com/user-attachments/assets/bc1b8f74-6ecb-495b-b813-793ebcb9c876" />
 </p>
